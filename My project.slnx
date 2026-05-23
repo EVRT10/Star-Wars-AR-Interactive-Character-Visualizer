@@ -1,0 +1,21 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="DA_Assets.DAG.csproj" />
+  <Project Path="DA_Assets.Shared.csproj" />
+  <Project Path="CW.Common.csproj" />
+  <Project Path="VuforiaPackageTests.csproj" />
+  <Project Path="LeanCommon.csproj" />
+  <Project Path="DA_Assets.Shared.RuntimeV2.csproj" />
+  <Project Path="UnityFigmaBridgeEditor.csproj" />
+  <Project Path="DA_Assets.SVGMeshUnity.csproj" />
+  <Project Path="UnityFigmaBridgeRuntime.csproj" />
+  <Project Path="DA_Assets.FCU.csproj" />
+  <Project Path="DA_Assets.Shared.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="VuforiaEditorScripts.csproj" />
+  <Project Path="LeanTouch.csproj" />
+  <Project Path="VuforiaScripts.csproj" />
+  <Project Path="DA_Assets.CR.csproj" />
+  <Project Path="DA_Assets.DAG.Editor.csproj" />
+  <Project Path="DA_Assets.CR.Editor.csproj" />
+</Solution>

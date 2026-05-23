@@ -1,0 +1,4 @@
+repository "My project/AR StarWars@18968433730767@cloud"
+  path "/"
+    br "/main"
+    co "/main"
